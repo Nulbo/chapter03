@@ -28,16 +28,16 @@ public class PhoneList02 {
 //				String line = scanner.nextLine();
 //				System.out.println( line );
 				String name = scanner.next();
-				String num01 = scanner.next();
-				String num02 = scanner.next();
-//				int num03 = scanner.nextInt();
+				int num01 = scanner.nextInt();
+				int num02 = scanner.nextInt();
+				int num03 = scanner.nextInt();
 				
-//System.out.println( 
-//	"이름:" + name + 
-//	"\t\t" + 
-//	"전화번호:" + num01 + 
-//	"-" + num02 + 
-//	"-" + num03 );
+System.out.println( 
+	"이름:" + name + 
+	"\t\t" + 
+	"전화번호:" + num01 + 
+	"-" + num02 + 
+	"-" + num03 );
 			}
 		
 		
